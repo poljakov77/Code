@@ -1,4 +1,4 @@
 static void Main()
 {
-   Console.Write("Вітаю всіх");
+   Console.Write("Вітаю всіх з майбутньою перемогою");
 }
